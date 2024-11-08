@@ -13,5 +13,5 @@ Enllaç al wireframe (figma): https://www.figma.com/design/DSdYxsmA9lz12p9tiq1bZ
 
 ## Disseny general Admin
 
-<img src = fotos/admin/esquemaGeneralAdmin1.png width="800" height="500">
-<img src = fotos/admin/esquemaGeneralAdmin2.png width="2000" height="500">
+<img src = fotos/admin/esquemaGeneralAdmin1.png width="2000" height="500">
+<img src = fotos/admin/esquemaGeneralAdmin2.png width="800" height="500">
