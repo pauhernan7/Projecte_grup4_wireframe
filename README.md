@@ -3,8 +3,8 @@ Enllaç al wireframe del figma: https://www.figma.com/design/DSdYxsmA9lz12p9tiq1
 
 ## Disseny general Alumne
 
-<img src = fotos/alumne/esquemaGeneralAlumne1.png width="2000" height="550">
-<img src = fotos/alumne/esquemaGeneralAlumne2.png width="2000" height="550">
+<img src = fotos/alumne/esquemaGeneralAlumne1.png width="2000" height="500">
+<img src = fotos/alumne/esquemaGeneralAlumne2.png width="2000" height="500">
 
 ## Disseny general Professor
 
