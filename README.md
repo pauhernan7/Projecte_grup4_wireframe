@@ -3,7 +3,7 @@
 
 ## Disseny general Alumne
 
-<img src = fotos/alumne/esquemaGeneralAlumne.png width="400" height="550">
+<img src = fotos/alumne/esquemaGeneralAlumne.png width="800" height="550">
 
 ## Disseny general Professor
 
