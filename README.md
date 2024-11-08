@@ -1,1 +1,11 @@
-# Projecte_grup4_wireframe
+# Wireframe d'alt qualitat
+
+
+## Disseny general Alumne
+
+
+## Disseny general Professor
+
+
+
+## Disseny general Admin
